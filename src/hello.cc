@@ -8,7 +8,7 @@ NAN_METHOD(hello) {
     count = i;
   }
 
-  std::cout << "hello\n";
+  std::cout << "asdasd\n";
 }
 
 NAN_MODULE_INIT(init) {
